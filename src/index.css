@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* for all the forms with black background */
+.textfield_label{
+  color:rgb(153, 149, 149) !important;
+}
